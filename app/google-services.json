@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1019128533746",
+    "firebase_url": "https://androideatit2-bca60.firebaseio.com",
+    "project_id": "androideatit2-bca60",
+    "storage_bucket": "androideatit2-bca60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019128533746:android:fd8210cf36e04542",
+        "android_client_info": {
+          "package_name": "com.example.agrendra.androideatit_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019128533746-tc1l5r3hmvdkbpn26p298si6mnl44j0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agrendra.androideatit_v2",
+            "certificate_hash": "15ae336b5270e46f77b3ff7bd1ee25c83a1fd032"
+          }
+        },
+        {
+          "client_id": "1019128533746-f0gs1gnc6cgh2u9plcpa9na3d6ddvaq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDus3mbHy4rj5JttdRmiP512pLxd3fEBt8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019128533746-f0gs1gnc6cgh2u9plcpa9na3d6ddvaq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
